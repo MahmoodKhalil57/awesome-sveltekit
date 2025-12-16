@@ -949,3 +949,19 @@
   date_created: 2024-11-12
   date_added: 2025-02-20
   repo_stars: 3328
+
+- title: SvelteKit Auto OpenAPI
+  repo: https://github.com/MahmoodKhalil57/sveltekit-auto-openapi
+  description: A file converter that converts files client-side while being completely ad-free.
+  uses: [TypeScript, Tailwind, Coolify, WASM, FFmpeg, libvips, Plausible]
+  tags:
+    [ffmpeg, conversion, wasm, vips, open source, graphics, video, audio, files]
+  date_created: 2024-11-12
+  date_added: 2025-02-20
+  repo_stars: 3328
+
+- title: SvelteKit Auto OpenAPI
+  repo: https://github.com/MahmoodKhalil57/sveltekit-auto-openapi
+  description: Automatically generate OpenAPI specifications and provide runtime request/response validation for SvelteKit using Zod and TypeScript AST analysis.
+  uses: [Typescript, Vite, Zod, TsMorph, OpenApi, Scalar]
+  tags: [openapi, validation, documentation, zod, tools]
